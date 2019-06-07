@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tailor Book</string>
+    <string name="home_text_bg">Aucunes données.\n Veuillez %1$s une personne</string>
+    <string name="mesurement_toolbar">Mesures</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
